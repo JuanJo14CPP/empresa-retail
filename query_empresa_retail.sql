@@ -14,7 +14,7 @@
 DELETE FROM cliente 
 WHERE cli_correo = 'jon123@gmail.com';
  
- /*Tabla clientes*/
+ /*Tabla clientess*/
  insert into cliente(cli_id_cliente) values 
  ('Jhon', 'Ronaldo', 'jon123@gmail.com', '3187659087', 'Tumaco', '2023-09-12'),
  ('Samir', 'Gomez', 'samir456@gmail.com', '3154567890', 'Pasto', '2024-10-01'),
